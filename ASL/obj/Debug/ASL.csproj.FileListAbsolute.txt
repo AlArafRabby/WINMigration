@@ -1,0 +1,17 @@
+D:\Development\WINMigration\ASL\bin\Debug\ASL.exe.config
+D:\Development\WINMigration\ASL\bin\Debug\ASL.exe
+D:\Development\WINMigration\ASL\bin\Debug\ASL.pdb
+D:\Development\WINMigration\ASL\obj\Debug\ASL.csproj.AssemblyReference.cache
+D:\Development\WINMigration\ASL\obj\Debug\Interop.zkemkeeper.dll
+D:\Development\WINMigration\ASL\obj\Debug\ASL.csproj.ResolveComReference.cache
+D:\Development\WINMigration\ASL\obj\Debug\ASL.EmailSend.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.IBBLGrab.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.Properties.Resources.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.PunchGrab.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.SCBGrab.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.SMSSend.resources
+D:\Development\WINMigration\ASL\obj\Debug\ASL.csproj.GenerateResource.cache
+D:\Development\WINMigration\ASL\obj\Debug\ASL.csproj.CoreCompileInputs.cache
+D:\Development\WINMigration\ASL\obj\Debug\ASL.csproj.CopyComplete
+D:\Development\WINMigration\ASL\obj\Debug\ASL.exe
+D:\Development\WINMigration\ASL\obj\Debug\ASL.pdb

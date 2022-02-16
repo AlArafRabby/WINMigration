@@ -1,0 +1,54 @@
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.csprojAssemblyReference.cache
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.csproj.ResolveComReference.cache
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.Cafeteria.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.EmailSend.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.IBBLGrab.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.MealDetails.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.Properties.Resources.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.PunchGrab.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.SCBGrab.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.SMSSend.resources
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.csproj.GenerateResource.cache
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.csproj.CoreCompileInputs.cache
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.exe
+D:\AGSolutions\Migration Projects\WINMigration\ARL\obj\Debug\ARL.pdb
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.csproj.AssemblyReference.cache
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\Interop.zkemkeeper.dll
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.csproj.ResolveComReference.cache
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.Cafeteria.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.EmailSend.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.IBBLGrab.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.MealDetails.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.Properties.Resources.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.PunchGrab.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.SCBGrab.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.SMSSend.resources
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.csproj.GenerateResource.cache
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.csproj.CoreCompileInputs.cache
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.exe
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.pdb
+D:\Development\Help Folder\WINMigration\ARL\bin\Debug\ARL.exe.config
+D:\Development\Help Folder\WINMigration\ARL\bin\Debug\ARL.exe
+D:\Development\Help Folder\WINMigration\ARL\bin\Debug\ARL.pdb
+D:\Development\Help Folder\WINMigration\ARL\obj\Debug\ARL.csproj.CopyComplete
+D:\Development\WINMigration\ARL\bin\Debug\ARL.exe.config
+D:\Development\WINMigration\ARL\bin\Debug\ARL.exe
+D:\Development\WINMigration\ARL\bin\Debug\ARL.pdb
+D:\Development\WINMigration\ARL\bin\Debug\AxInterop.BioBridgeSDKLib.dll
+D:\Development\WINMigration\ARL\obj\Debug\ARL.csproj.AssemblyReference.cache
+D:\Development\WINMigration\ARL\obj\Debug\Interop.zkemkeeper.dll
+D:\Development\WINMigration\ARL\obj\Debug\ARL.csproj.ResolveComReference.cache
+D:\Development\WINMigration\ARL\obj\Debug\ARL.Cafeteria.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.DashBoard.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.EmailSend.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.IBBLGrab.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.MealDetails.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.Properties.Resources.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.PunchGrab.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.SCBGrab.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.SMSSend.resources
+D:\Development\WINMigration\ARL\obj\Debug\ARL.csproj.GenerateResource.cache
+D:\Development\WINMigration\ARL\obj\Debug\ARL.csproj.CoreCompileInputs.cache
+D:\Development\WINMigration\ARL\obj\Debug\ARL.csproj.CopyComplete
+D:\Development\WINMigration\ARL\obj\Debug\ARL.exe
+D:\Development\WINMigration\ARL\obj\Debug\ARL.pdb

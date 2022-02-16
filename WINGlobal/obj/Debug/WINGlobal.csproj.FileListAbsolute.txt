@@ -1,0 +1,11 @@
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.Cafeteria.resources
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.DashBoard.resources
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.MealDetails.resources
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.Properties.Resources.resources
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.csproj.GenerateResource.cache
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.csproj.CoreCompileInputs.cache
+D:\Development\WINMigration\WINGlobal\bin\Debug\WINGlobal.exe.config
+D:\Development\WINMigration\WINGlobal\bin\Debug\WINGlobal.exe
+D:\Development\WINMigration\WINGlobal\bin\Debug\WINGlobal.pdb
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.exe
+D:\Development\WINMigration\WINGlobal\obj\Debug\WINGlobal.pdb
